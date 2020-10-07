@@ -5,7 +5,7 @@ print(a)
 a = int(a)
 print(type(a))
 print(a)
-
+print(a)
 
 #####一起申明变量，一起输出变量
 #a1,a2,a3=1,2,3
